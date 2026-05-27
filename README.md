@@ -48,7 +48,6 @@ workos-pro/
 ├── README.md       ← 프로젝트 설명
 ├── railway.json    ← Railway 배포 설정
 ├── package.json    ← Node.js 서버 설정
-└── github_link.txt ← 제출용 링크
 ```
 
 ---
