@@ -65,47 +65,6 @@ npm start
 # → http://localhost:3000
 ```
 
----
-
-## ☁️ Railway 배포 방법
-
-### 1단계: GitHub Push
-
-```bash
-git init
-git add .
-git commit -m "feat: WorkOS Pro 대시보드 초기 배포"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/workos-pro.git
-git push -u origin main
-```
-
-### 2단계: Railway 연결
-
-1. [railway.app](https://railway.app) 접속
-2. **"Start a New Project"** 클릭
-3. **"Deploy from GitHub repo"** 선택
-4. 생성한 레포지토리 선택
-5. **자동 배포 시작** ✅
-
-### 3단계: URL 확인
-
-- Railway 대시보드 → **Settings** → **Domains**
-- **"Generate Domain"** 클릭
-- `https://workos-pro-xxxx.railway.app` URL 생성 완료
-
----
-
-## 📝 제출 방법
-
-`대시보드 고도화_이민하.txt` 파일 형식으로 제출:
-
-```
-GitHub URL: https://github.com/YOUR_USERNAME/workos-pro
-Railway URL: https://workos-pro-xxxx.railway.app
-```
-
----
 
 ## 👤 제작
 
