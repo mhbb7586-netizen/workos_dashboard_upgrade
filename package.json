@@ -1,0 +1,16 @@
+{
+  "name": "workos-pro",
+  "version": "1.0.0",
+  "description": "WorkOS Pro — 업무 종합 대시보드 고도화",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["dashboard", "saas", "workos", "productivity"],
+  "author": "이민하",
+  "license": "MIT"
+}
